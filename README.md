@@ -8,7 +8,7 @@ Installation
 ------------
 
 Clone this repository or just download the [Vagrantfile][] and run `vagrant up`
-to try the current [NEOS][] release on [PHP 7.1][].
+to try the current [NEOS][] release on [PHP 7.2][].
 
 
 Feedback
@@ -30,6 +30,6 @@ Or follow us on Twitter:
 
 [Vagrantfile]: https://gitlab.pluspunkthosting.de/opensource/proserver-neos-box/raw/master/Vagrantfile
 [NEOS]: https://www.neos.io/
-[PHP 7.1]: http://php.net/
+[PHP 7.2]: http://php.net/
 [@punktdehosting]: https://twitter.com/punktdehosting
 [Schorsch N Beastie]: schorsch_n_beastie.png
