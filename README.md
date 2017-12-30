@@ -10,6 +10,7 @@ Installation
 Clone this repository or just download the [Vagrantfile][] and run `vagrant up`
 to try the current [NEOS][] release on [PHP 7.2][].
 
+You can access the Neos frontend on [http://172.17.28.28](http://172.17.28.28) and the backend on [http://172.17.28.28/neos](http://172.17.28.28/neos)
 
 Feedback
 --------
