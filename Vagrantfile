@@ -1,6 +1,5 @@
 Vagrant.configure("2") do |config|
   config.vm.box = 'punktde/proserver'
-  config.vm.box_url = "https://boxes.hosting.punkt.de/freebsd-111-ufs-HEAD-php72-es2.json"
   config.vm.synced_folder '.', '/vagrant', id: 'vagrant-root', disabled: true
   config.vm.network 'private_network', ip: '172.17.28.28'
   config.ssh.forward_agent = true
