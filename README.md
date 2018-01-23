@@ -17,7 +17,7 @@ Feedback
 
 Do you like the box and think of hosting NEOS on this platform?
 
-* Visit https://hosting.punkt.de/
+* Visit https://infrastructure.punkt.de/
 
 Do you have feedback?
 
