@@ -8,7 +8,7 @@ Installation
 ------------
 
 Clone this repository or just download the [Vagrantfile][] and run `vagrant up`
-to try the current [NEOS][] release on [PHP 7.2][].
+to try the current [Neos][] release on [PHP 7.2][].
 
 You can access the Neos frontend on [http://172.17.28.28](http://172.17.28.28) and the backend on [http://172.17.28.28/neos](http://172.17.28.28/neos)
 
@@ -29,8 +29,8 @@ Or follow us on Twitter:
 
 
 
-[Vagrantfile]: https://gitlab.pluspunkthosting.de/opensource/proserver-neos-box/raw/master/Vagrantfile
-[NEOS]: https://www.neos.io/
+[Vagrantfile]: https://github.com/punktDe/proserver-neos-box/blob/master/Vagrantfile
+[Neos]: https://www.neos.io/
 [PHP 7.2]: http://php.net/
 [@punktdehosting]: https://twitter.com/punktdehosting
 [Schorsch N Beastie]: schorsch_n_beastie.png
